@@ -1,1 +1,1 @@
-# polyxams-school
+# Polyxams
